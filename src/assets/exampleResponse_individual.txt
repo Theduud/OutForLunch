@@ -1,0 +1,199 @@
+{
+   "html_attributions": [],
+   "result": {
+      "address_components": [
+         {
+            "long_name": "3718",
+            "short_name": "3718",
+            "types": [
+               "street_number"
+            ]
+         },
+         {
+            "long_name": "State Street",
+            "short_name": "State St",
+            "types": [
+               "route"
+            ]
+         },
+         {
+            "long_name": "Bettendorf",
+            "short_name": "Bettendorf",
+            "types": [
+               "locality",
+               "political"
+            ]
+         },
+         {
+            "long_name": "Pleasant Valley",
+            "short_name": "Pleasant Valley",
+            "types": [
+               "administrative_area_level_3",
+               "political"
+            ]
+         },
+         {
+            "long_name": "Scott County",
+            "short_name": "Scott County",
+            "types": [
+               "administrative_area_level_2",
+               "political"
+            ]
+         },
+         {
+            "long_name": "Iowa",
+            "short_name": "IA",
+            "types": [
+               "administrative_area_level_1",
+               "political"
+            ]
+         },
+         {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+               "country",
+               "political"
+            ]
+         },
+         {
+            "long_name": "52722",
+            "short_name": "52722",
+            "types": [
+               "postal_code"
+            ]
+         }
+      ],
+      "adr_address": "<span class=\"street-address\">3718 State St</span>, <span class=\"locality\">Bettendorf</span>, <span class=\"region\">IA</span> <span class=\"postal-code\">52722</span>, <span class=\"country-name\">USA</span>",
+      "formatted_address": "3718 State St, Bettendorf, IA 52722, USA",
+      "formatted_phone_number": "(815) 625-6380",
+      "geometry": {
+         "location": {
+            "lat": 41.529508,
+            "lng": -90.4820508
+         },
+         "viewport": {
+            "northeast": {
+               "lat": 41.5306523802915,
+               "lng": -90.4805029697085
+            },
+            "southwest": {
+               "lat": 41.5279544197085,
+               "lng": -90.4832009302915
+            }
+         }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+      "id": "6897f74217270c41395542ce720c02415bc1b63f",
+      "international_phone_number": "+1 815-625-6380",
+      "name": "Shell",
+      "opening_hours": {
+         "open_now": true,
+         "periods": [
+            {
+               "open": {
+                  "day": 0,
+                  "time": "0000"
+               }
+            }
+         ],
+         "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+         ]
+      },
+      "photos": [
+         {
+            "height": 3024,
+            "html_attributions": [
+               "<a href=\"https://maps.google.com/maps/contrib/110936984206965088353\">Fritz Colschen</a>"
+            ],
+            "photo_reference": "CmRaAAAAsPMpdIdN4coscPFghLwPd0pZqK1Pero50Mwnk3faLpIAlE6mlkk-g8ewaGAvlV4QwU_v08BkWlYXyGy5qIy6OxXnV0vehJl_OiK2LJohajM33BP7f_tCBQyIcz7uksf3EhACa3qNWetDwxQnxFH7R1BLGhQbDXY0RTGgeZNK6H6EWK-iJIIOJw",
+            "width": 4032
+         }
+      ],
+      "place_id": "ChIJDc4laC834ocReDDnZ0XGccQ",
+      "plus_code": {
+         "compound_code": "GGH9+R5 Bettendorf, Pleasant Valley, IA, United States",
+         "global_code": "86HFGGH9+R5"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJDc4laC834ocReDDnZ0XGccQ",
+      "reviews": [
+         {
+            "author_name": "Tom Decker",
+            "author_url": "https://www.google.com/maps/contrib/112856954903354761478/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.ggpht.com/-ECQYSM_fw00/AAAAAAAAAAI/AAAAAAAAAAA/1PImXfpJVAQ/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "8 months ago",
+            "text": "The chicken strips that I bought their old and hard I had to throw them away cuz I couldn't eat them",
+            "time": 1565139175
+         },
+         {
+            "author_name": "Fritz Colschen",
+            "author_url": "https://www.google.com/maps/contrib/110936984206965088353/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh6.ggpht.com/-b8n7TXY5KGM/AAAAAAAAAAI/AAAAAAAAAAA/giY_cy6T2Kw/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Friendly service, clean",
+            "time": 1496403744
+         },
+         {
+            "author_name": "Ryan Wermes",
+            "author_url": "https://www.google.com/maps/contrib/102357176422318654999/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh3.ggpht.com/-BTK99PcMsLk/AAAAAAAAAAI/AAAAAAAAAAA/Ril4n3Yq-Gw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating": 4,
+            "relative_time_description": "3 years ago",
+            "text": "Usually very helpful, but one of their employees so overly courteous, it is to the point of being obnoxious. Plus he never understands how to run a gas transaction when I'm using my Hy-Vee rewards card and paying inside with gift cards.  ",
+            "time": 1489888289
+         },
+         {
+            "author_name": "Randy Eckstein",
+            "author_url": "https://www.google.com/maps/contrib/105115802527649697714/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh5.ggpht.com/-gyGENiUban8/AAAAAAAAAAI/AAAAAAAAAAA/QNrGMmiDhto/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "Full quick shop, alcohol gas , Diesel and oils small grocery",
+            "time": 1514385951
+         },
+         {
+            "author_name": "Richard Schwerdtfeger",
+            "author_url": "https://www.google.com/maps/contrib/115482982787479041322/reviews",
+            "language": "en",
+            "profile_photo_url": "https://lh4.ggpht.com/-jbP7puECh3o/AAAAAAAAAAI/AAAAAAAAAAA/ecJ_QC_jui8/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating": 5,
+            "relative_time_description": "2 years ago",
+            "text": "This particular shell I would recommend anyone and everyone to go there the employees are always polite their prompt and very curious the Lots always clean stores always clean so yes I would recommend this to anyone and everyone to go to this show State Street and Devils Glen",
+            "time": 1498846562
+         }
+      ],
+      "scope": "GOOGLE",
+      "types": [
+         "gas_station",
+         "atm",
+         "convenience_store",
+         "finance",
+         "restaurant",
+         "food",
+         "point_of_interest",
+         "store",
+         "establishment"
+      ],
+      "url": "https://maps.google.com/?cid=14155313105200427128",
+      "user_ratings_total": 60,
+      "utc_offset": -300,
+      "vicinity": "3718 State Street, Bettendorf",
+      "website": "https://find.shell.com/us/fuel/10086996-3718-state-st"
+   },
+   "status": "OK"
+}
